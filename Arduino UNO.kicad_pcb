@@ -40397,7 +40397,7 @@
 		)
 	)
 	(gr_text "2025.rtss.org"
-		(at 156 139 0)
+		(at 156.5 139 0)
 		(layer "F.SilkS")
 		(uuid "bf8aaef3-28cd-48a8-b9fd-a3d496b3c380")
 		(effects
@@ -40623,7 +40623,7 @@
 		)
 	)
 	(gr_text "2025.rtss.org"
-		(at 176.5 139 0)
+		(at 177 139 0)
 		(layer "B.SilkS")
 		(uuid "09e3ba63-092c-463c-a407-01d9b566b7ff")
 		(effects
